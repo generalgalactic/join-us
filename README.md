@@ -1,4 +1,4 @@
-# Come work for Galactic
+# Come work for General Galactic Corporation
 
 We are building some fun stuff. We are a small team building some technology that will change how we work. The future is galactic.
 
