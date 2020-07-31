@@ -1,4 +1,4 @@
-# Come work for galactic
+# Come work for Galactic
 
 We are building some fun stuff. We are a small team building some technology that will change how we work. The future is galactic.
 
@@ -8,5 +8,5 @@ Send an email to [jobs@galactic.io](mailto:jobs@galactic.io).
 
 Looking forward to hearing from you. 
 
-We are [galactic](http://galactic.io).
+We are [Galactic](http://galactic.io).
 
