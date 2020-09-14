@@ -1,6 +1,6 @@
 # Come work for General Galactic Corporation
 
-<img src="https://galactic.io/images/galactic.svg" width="300" />
+<img src="https://galactic.io/images/galactic.svg" alt="General Galactic Corporation logo; red, white, & blue" width="300" />
 
 We are [Galactic](http://galactic.io).
 
