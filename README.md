@@ -1,4 +1,4 @@
-# Come work for General Galactic Corporation
+# Come work with us at General Galactic Corporation
 
 <img src="https://galactic.io/images/galactic.svg" alt="General Galactic Corporation logo; red, white, & blue" width="300" />
 
