@@ -10,5 +10,5 @@ Would love to have you join us.
 
 Send an email to [jobs@galactic.io](mailto:jobs@galactic.io). 
 
-Looking forward to hearing from you.
+Looking forward to hearing from you!
 
